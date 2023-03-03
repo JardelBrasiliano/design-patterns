@@ -1,0 +1,1 @@
+- [Factory Method](./Factory%20Method/)
